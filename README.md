@@ -1,7 +1,7 @@
 # Course-Paper-Robotics-and-Automation
 
 
-Study report on the general elective course Robotics and Automation (Fall 2022-2023)
+Study report on the general elective course Robotics and Automation (Fall 2023-2024)
 
 The report is very simple, I hope to write professional survey papers in the future.
 
